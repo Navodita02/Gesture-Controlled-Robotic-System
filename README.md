@@ -19,9 +19,8 @@ A real-time computer vision system that allows users to control a robotic device
 
 ## ▶️ Demo Video
 
-👉 Watch Demo
-
-## 📸 Screenshots
+👉 [Demo 1](gesture_control_bot_video.mp4)
+    [demo 2](gesture_detection.mp4)
 
 
 ## 🔌 System Architecture
