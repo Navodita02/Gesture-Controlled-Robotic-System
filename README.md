@@ -57,10 +57,11 @@ A real-time computer vision system that allows users to control a robotic device
 
 ## 📂 Project Structure
                       gesture-controlled-robot/
-                      │── src/            # Python code
-                      │── arduino/        # ESP8266 code
-                      │── images/         # Screenshots
+                      │── src/                              # Python code
                       │── README.md
+                      │── gesture_control_bot_video/        # video1
+                      │── arduino/                          # ESP8266 code
+                      │── deture_detection                  #video2
 
 ## 📫 Author
 
